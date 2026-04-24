@@ -74,13 +74,13 @@ verifiedbootstate     -> orange
 
 ## Screenshots
 ### Emulateur roote
-![adb root](screenshots/adb_root.png)
+![adb root](screenshots/adb_root.PNG)
 
 ### App installee
-![app](screenshots/app_running.png)
+![app](screenshots/app_running.PNG)
 
 ### Verified Boot Orange
-![verified boot](screenshots/verified_boot.png)
+![verified boot](screenshots/verified_boot.PNG)
 
 ---
 
@@ -98,3 +98,4 @@ verifiedbootstate     -> orange
 - Donnees fictives - OK
 - AVD isole - OK
 - Reset effectue - OK
+
