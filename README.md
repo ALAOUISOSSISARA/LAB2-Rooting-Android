@@ -1,7 +1,6 @@
 ﻿# LAB 2 : Rooting Android
 
 **Cours :** Securite des applications mobiles
-**Auteur :** ALAOUISOSSISARA
 **Date :** 24/04/2026
 
 ---
